@@ -1,0 +1,5 @@
+@import '@headless-web-builder/themes/themes.css';
+@import '@headless-web-builder/react-components-layout/style.css';
+@import "@headless-web-builder/react-components-accordion/style.css";
+@import "@headless-web-builder/react-components-button/style.css";
+@import "@headless-web-builder/react-components-toast/style.css";
